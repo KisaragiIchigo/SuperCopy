@@ -1,0 +1,1 @@
+pyinstaller --onefile --noconsole --icon=supercopy.ico SuperCopy.py
